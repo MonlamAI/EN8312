@@ -1,0 +1,84 @@
+Empowering digital Tibet: An interview with activist Lhadon Tethong
+
+
+
+ 
+
+
+Rignam Wangkhang
+
+Lhadon Tethong is one of the most prominent and recognizable leaders in the Tibetan freedom movement. She first became a spokeswoman on Tibetan issues after her speech at the 1998 Tibetan Freedom Concerts inspired a new generation of Tibetan supporters. Lhadon then went on to serve as Executive Director of Students for a Free Tibet, where she led a high-profile global campaign to condemn China’s rule of Tibet in the lead-up to and during the 2008 Beijing Olympic Games. In 2011, she was awarded the first annual James Lawson Award for Nonviolent Achievement by the International Center on Nonviolent Conflict.
+
+A Tibetan born in Canada, she recently founded the Tibet Action Institute, which combines digital communication tools with strategic nonviolent action to build and strengthen the Tibet movement for human rights and freedom.
+
+In this interview, Lhadon speaks with Rignam Wangkhang about her work, Chinese cyber surveillance, and the future of digital rights in Tibet.
+
+According to Freedom House’s recent ‘Freedom on the Net‘ 2015 report, China was the year’s worst abuser of internet freedom. How would you rank Tibet?
+
+In terms of digital rights in Tibet, we just have to assume it’s the worst of the worst. When we compare the ability of a Chinese person to speak their mind to that of a Tibetan in Tibet, the cost for Tibetans, and the surveillance over Tibetans, is usually much higher. China is extremely paranoid about any challenge to its authority from Tibet.
+
+What is the general situation with respect to surveillance?
+
+Tibetans inside Tibet understand surveillance. Whether it’s online or not, they have been living with unbelievably restrictive and pervasive surveillance inside central Tibet, which the Chinese government calls the Tibetan Autonomous Region (TAR). Outside of the TAR, and in most of the areas of historical Tibet that had been absorbed into the Chinese provinces of Qinghai, Sichuan, Yunnan and Gansu, Tibetans have faced increasing restrictions and surveillance in recent years.
+
+It’s not that you just make a comment online and you might get caught. People are stopped at roadblocks, and in Lhasa their phones will be taken and searched.
+
+Post-2008, in the wake of the uprising that rocked the entire Tibetan plateau, the Chinese went to great lengths to physically search, digitally monitor, and root out the key people they believed to be behind the protests. They couldn’t accept that it was a spontaneous and a true expression of Tibetan frustration and anger with their treatment under Chinese occupation.
+
+How is the removal, blocking and filtering of content affecting internet freedom inside and outside Tibet?
+
+It’s very easy for Chinese authorities, who have unlimited resources, to take down websites or take content offline. One day it’s there, then the next day, the next minute, it’s gone – whether it’s a comment or an entire website.
+
+Tom-Skype is a special version of Skype that they use in China and Tibet. We know for a fact that certain keywords are filtered. You can send a message that won’t be delivered because that message has been blocked and censored in transit, by the company itself.
+
+Almost every Tibetan uses WeChat [Chinese messaging and social media app]. We know that in times of heightened sensitivity, people will be arrested for what they post on WeChat. A Tibetan man in Qinghai, Eastern Tibet, in Tibet’s traditional province of Amdo, posted content related to the Dalai Lama’s 80th birthday. He was arrested, disappeared, and no one has any information on his whereabouts.
+
+Even those who self-censor, and aren’t necessarily doing anything political, are mapped, and their channels of communication are understood. The biggest risk is that when Tibetans are all using a single service, like WeChat, it’s very easy for the Chinese government to centralize surveillance and map people’s networks.
+
+Some people tell me that Tibetans cannot let fear consume them, and everyone needs to go back to posting online content as they see fit. They bring up Amdo as an example of people posting so much that the Chinese government began allowing certain things, because they can’t arrest everyone.
+
+Tibetans need to express themselves and I think they do that. Some people are very outspoken and take greater risks than others who speak more in metaphors. Other people are more reticent, and from this place of comfort and freedom that I sit in the U.S., I can’t say what Tibetans inside should or shouldn’t do. Those of us on the outside should not assume we know what’s best, but rather try to hear what they’re talking about, what they’re doing, and support them.
+
+china_tibet_monks_computers_ap__468
+
+How do we navigate this landscape without self-censoring ourselves?
+
+I think with the case of WeChat, the key is to understand how the technology works, and understand the potential obstacles or risks that can come from using it. Tibetans need to know how to do it in a more smart and secure way, to protect sources on the ground and protect communities.
+
+From your personal experience, how extensive and sophisticated is the surveillance apparatus of the Chinese government?
+
+A lot of the attacks that they launch, hacking attacks or phishing attacks towards Tibetans, aren’t very sophisticated. The reality is that the way Chinese online attackers are going after Tibetans can be pretty crude. Sometimes, because Tibetans aren’t updating their software, it’s as simple as that they’re using an outdated version of Word. If they’re using an outdated version of software, it is more prone to viruses that have been circulating around the web.
+
+We tend to believe Chinese cyber attacks must be sophisticated, but even when the attacks are on the highest levels of the American government, it can be simply that they sent an instant message to some government employee with the right level of clearance and pretended to be that person’s mother, and the person got tricked into clicking on a link and letting the Chinese in. That’s just human error that can be corrected through basic education and awareness. It is a good indication that we have more control than we think.
+
+To me, the situation requires a holistic approach. I don’t think we gain anything from scaring people and disempowering them. It’s a good thing that Tibetans are not easily scared, and I think that is the most hopeful, and encouraging foundational reality of our movement.
+
+Knowing that, how are you educating Tibetans on these matters and what has been the most effective way to educate them so far?
+
+First, by focusing broadly on public awareness and education campaigns. We’ve thought of it like a public health campaign. If there are ways to help people stay healthy and alive online, then that’s where we will put our efforts. There is a need for broad scale public education and awareness about better digital hygiene practices. We’re actually ahead of the curve in the Tibetan world because of our situation.
+
+Next to that is targeted trainings. We can know this afternoon whether a protest happened in Tibet last night. We can see video footage or photos of that protest, and this is an incredible development. By doing targeted training with Tibetan activists and people who are actively getting information out of Tibet, or communicating with people inside Tibet, we hope to establish digital hygiene best practices.
+
+LinkedIn is trying to expand into China, and due to pressure from government authorities, it is proactively restricting politically sensitive material from its users in China. Why is this happening?
+
+I think it’s an absolute shame, there’s no other way to put it. I think that these tech giants, whether it is LinkedIn, Facebook, Google or Twitter, have incredible influence and opportunity to push the Chinese government in the right direction, and instead, it’s a race to the bottom. People are so eager to get into the Chinese market, we’re going to see more tech companies doing anything the Chinese ask them to. The entire reason that these tech giants have become giants is because they have built their success on the free and open internet. To then go and help the Chinese government shut it down for Chinese citizens and Tibetans is short sighted.
+
+How do you create change with regard to internet freedoms and surveillance in countries like China and Tibet that do not have the same potential for legislative or judicial change as the West?
+
+First and foremost, those of us living in a free and democratic world can lead by example. Stigmatizing encryption tools as something only terrorists use, like in the U.K., is counter productive to the cause of freedom around the world. It’s in the interest of our governments to educate the public about how these tools work, to be more digitally literate, and understand safety and security online. Once people understand these tools and technology more, they will be less likely to have a knee jerk reaction to ban encryption tools. They’ll understand the importance of people being able to have secure speech online.
+
+Next, American, British or Canadian companies like Gamma International and Hacking Team, who are actively helping authoritarian governments use surveillance over their citizens, must be held accountable. These corporations should be outlawed, controlled, fined, made pariahs. That kind of behaviour should not be tolerated, but whether the political will is there is another question.
+
+And finally, no one is engaging with China directly. There are plenty of diplomatic tools in the toolbox to help Tibetans in Tibet and citizens in China who are fighting for rights and freedoms, and our governments should not shy away from engaging with the Chinese openly and directly.
+
+Tendor’s [prominent Tibetan writer and activist] monograph on “The History of Tibetan Non-Violence Struggle” states that the Tibetan struggle is going through transformative resistance. How does this apply to the digital sphere, and what does the future of resistance in Tibet look like with regard to internet freedom, security and digital activism?
+
+The ability for Tibetans to share ideas, joys and sorrows, and hopes and dreams through these advances in ICTs [information and communication technologies] has completely revolutionised the struggle. More Tibetans than ever before are informed and connected to their brothers and sisters in all corners of the world.
+
+We have seen Tibetans wield culture as a weapon, an unbelievably powerful weapon in the struggle. All of this has been fuelled and spread through social media, mobile phones and the Internet. We have this incredible back-and-forth between Tibetans inside Tibet and Tibetans in exile, young Tibetans studying in China. Ultimately nothing that the Chinese do can stem the tide of this change that has started.
+
+The protests in 2008 were predominately non-violent protests by Tibetans as young as middle school, and from all walks of life. Not just monks and nuns, but schoolteachers, farmers, nomads, students. What started then is not finished, and in fact the next generation has become empowered, emboldened and intrigued by what’s out there.
+
+I don’t think that anything can really stand in their way or in the way of the Chinese who want and deserve the same rights and freedoms as we have. The question will just be how quickly the big change comes, and whether our governments and we as individuals and organizations help or stand in the way of that change.
+
+
